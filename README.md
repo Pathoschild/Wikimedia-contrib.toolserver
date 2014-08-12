@@ -1,0 +1,1 @@
+This repository was merged into [wikimedia-contrib](https://github.com/Pathoschild/Wikimedia-contrib).
